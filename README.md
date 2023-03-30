@@ -29,7 +29,7 @@ The data table is on the right of the Filter Search options.  Each time a Filter
 
 Data can be filtered by five columns: date, city, state, country, and UFO shape.  Once you enter something into any filter text boxes, the data table will be refreshed, limiting the displayed data to match the filtering request.
 
- #### Screen Shot of the Table with a two level Search of State = Califoria and Shape = triangle
+ #### Screen Shot of the Table with a two level Search of State = California and Shape = triangle
 ![Screenshot of the website highlighting the data table.](static/images/TwoItemSearch.jpg)
 ## Discussion
 
