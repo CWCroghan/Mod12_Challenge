@@ -16,18 +16,18 @@ The webpage has three primary sections: article, filtering options, and data tab
 
 The article written by Dana is prominently displayed on the top right side of the website, with the title to the left.  This structure mimics the presentation of journal articles in newspapers. 
  
-![Screenshot of the website highlighting the article.](https:)
+![Screenshot of the website highlighting the article.](https:static/images/article.jpg)
 
 The Filter Search options are given in a list below the article.  There are five filter options, and each text box contains an example of how to structure the entered information. 
  
-![Screenshot of the website highlighting the Filtering options.](https:)
+![Screenshot of the website highlighting the Filtering options.](https:static/images/filterSearch.jpg)
 
 The data table is on the right of the Filter Search options.  Each time a Filter option is changed, the data table is refreshed, showing the results of the Filters.
  
-![Screenshot of the website highlighting the data table.](https:)
+![Screenshot of the website highlighting the data table.](https:static/images/canadaSearch.jpg)
 
 Data can be filtered by five columns: date, city, state, country, and UFO shape.  Once you enter something into any filter text boxes, the data table will be refreshed, limiting the displayed data to match the filtering request.
-
+![Screenshot of the website highlighting the data table.](https:static/images/TwoItemSearch.jpg)
 # Discussion
 
 People can become frustrated if all of their searches result in no findings.  Clear communication of the data’s contents would forestall many of those types of searches.  For example, including a range of dates for which data are available would be good. Another example is to change elements with only a few options, i.e., country and shape a drop-down box.  Country only has two options and would be perfect for a drop-down list.  While there are more shapes, people may be unfamiliar with the various options that are available for UFO shapes within the data table. Limiting the entry to those shapes would make the website more user-friendly.
