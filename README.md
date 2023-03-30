@@ -16,7 +16,7 @@ The webpage has three primary sections: article, filtering options, and data tab
 
 The article written by Dana is prominently displayed on the top right side of the website, with the title to the left.  This structure mimics the presentation of journal articles in newspapers. 
  
-![Screenshot of the website highlighting the article.](https:static/images/article.jpg)
+![Screenshot of the website highlighting the article.](static/images/article.jpg)
 
 The Filter Search options are given in a list below the article.  There are five filter options, and each text box contains an example of how to structure the entered information. 
  
